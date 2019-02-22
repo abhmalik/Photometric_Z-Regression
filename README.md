@@ -1,0 +1,2 @@
+# Photometric_Z-Regression
+In this notebook we used decision tree and random forests algorithms to learn a mapping between galaxy magnitudes and colors and the spectroscopic redshift.  We also constructed some learning curves to determine the best choices of the algorithms.  We then used feature importance to understand which of the features give us the most predictive power, and then train a very simile algorithm with reduced feature list.
